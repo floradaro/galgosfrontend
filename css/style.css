@@ -63,18 +63,18 @@ body {
 }
 
 .catalog-image-left {
-  background-image: url("/assets/img/1.jpg"); /* Primera imagen izquierda */
+  background-image: url("../assets/img/1.jpg"); /* Primera imagen izquierda */
 }
 
 .catalog-image-right {
-  background-image: url("/assets/img/2.jpg"); /* Primera imagen derecha */
+  background-image: url("../assets/img/2.jpg"); /* Primera imagen derecha */
 }
 
 .catalog-image-left:hover {
-  background-image: url("/assets/img/3.jpg"); /* Segunda imagen izquierda */
+  background-image: url("../assets/img/3.jpg"); /* Segunda imagen izquierda */
 }
 .catalog-image-right:hover {
-  background-image: url("/assets/img/4.jpg"); /* Segunda imagen derecha */
+  background-image: url("../assets/img/4.jpg"); /* Segunda imagen derecha */
 }
 
 .catalog-button-container {
